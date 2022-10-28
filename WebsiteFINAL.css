@@ -234,12 +234,12 @@ body {
     .Kopfbereich { 
         grid-column: 1/5;
         grid-row: 1/2;
-        background-color: rgb(200, 0, 5);
+        background-color: rgb(5, 0, 200);
         text-align: center;
     }
 
     .Kopfbereich h1 {
-        background-color: rgb(200, 0, 5);
+        background-color: rgb(5, 0, 200);
     }
 
         /* Add a black background color to the top navigation */
@@ -389,7 +389,7 @@ body {
     .Fussbereich {
         grid-column: 1/5;
         grid-row: 4/5;
-        background-color: rgb(200, 0, 5);
+        background-color: rgb(5, 0, 200);
         color: black;
         padding: 10px;
         text-align: center;
